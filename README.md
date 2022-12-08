@@ -1,7 +1,7 @@
 # ToDo-App
 This app is intended for use for anyone that likes to keep a list of things that need to get done. You can add as many Todo Lists as needed and can add tasks under each list. User can mark tasks as done and delete or edit lists as necessary. 
 
-##Project Description 
+## Project Description 
 The ToDo App has many features that allow the user a smooth experience. 
 - placeholder to add todo lists
 - placeholder in todo list to add tasks per list
